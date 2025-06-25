@@ -1,0 +1,7 @@
+text,intent
+How can I reset my password?,reset_password
+I forgot my password,reset_password
+What is your refund policy?,refund_policy
+Can I get a refund?,refund_policy
+I'd like to speak to a human,connect_human
+Are you a robot?,bot_identity
